@@ -1,4 +1,4 @@
-# Исследование рынка заведений общественного питания Москвы
+# Анализ маркетинговых показателей компании
 [Смотреть проект](https://github.com/nastasiasimon/Yandex_practicum/blob/main/losses_analysis/losses_analysis.ipynb)
 
 ## Описание проекта
