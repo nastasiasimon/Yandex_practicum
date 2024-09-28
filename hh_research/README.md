@@ -1,5 +1,5 @@
 # Исследование вакансий для аналитика данных и системного аналитика с HH.ru
-[Смотреть проект](https://github.com/nastasiasimon/Yandex_practicum/blob/main/losses_analysis/losses_analysis.ipynb)
+[Смотреть проект](https://github.com/nastasiasimon/Yandex_practicum/blob/main/hh_research/hh_research.ipynb)
 
 ## Описание проекта
 В моем распоряжении данные о вакансиях из API HH.ru
